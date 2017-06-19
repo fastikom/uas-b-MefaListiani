@@ -21,8 +21,9 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation give you tools you need to build any application with which you are tasked.
 
-# laravel-api
-- First clone via `git bash` or download it. It is a RESTful api, you will find `angular2` app [here](https://github.com/eliyas5044/angular-laravel) .
+# laravel-api (Mefa Listiani | 2014157002)
+- First clone via `git bash` or download it. It is a RESTful api
+- Angular app here : [Dhika Maulana Okto W | 2014157002](https://github.com/fastikom/uas-b-DhikaMaulana) .
 - Run this command in your terminal
 ```
 composer install
@@ -53,10 +54,10 @@ because it's only api. Don't **forget** to start `mysql` server, if you use `mys
 You can check via [postman](https://www.getpostman.com/apps). Navigate all URI and you can see all works well.
 
 ## All end points
-1. Method `GET`, `URI` - `http://localhost:8000/api/mahasiswa`
-2. Method `POST`, `URI` - `http://localhost:8000/api/mahasiswa`
-3. Method `PUT`, `URI` - `http://localhost:8000/api/mahasiswa/{id}`
-4. Method `DELETE`, `URI` - `http://localhost:8000/api/mahasiswa/{id}`
+1. Method `GET`, `URI` - `http://localhost:8000/api/book`
+2. Method `POST`, `URI` - `http://localhost:8000/api/book`
+3. Method `PUT`, `URI` - `http://localhost:8000/api/book/{id}`
+4. Method `DELETE`, `URI` - `http://localhost:8000/api/book/{id}`
 
 - Clone or download
 
